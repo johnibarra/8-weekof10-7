@@ -64,10 +64,38 @@ we'll be able to type as much as we like.
 even 4 lines if we want.
 """)
 
+# escape sequence
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+# escape seq             what it does?
+# \\
+# \'
+# \"
+# \a
+# \b
+# \f
+# \n
+# \{name}
+# \r
+# \t
+# \uxxxx
+# \uxxxxxxxx
+# \v
+# \ooo
+# \xhh
 
 
 
