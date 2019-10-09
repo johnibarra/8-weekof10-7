@@ -64,22 +64,6 @@ we'll be able to type as much as we like.
 even 4 lines if we want.
 """)
 
-# escape sequence
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # escape seq             what it does?
 # \\
 # \'
@@ -97,15 +81,17 @@ even 4 lines if we want.
 # \ooo
 # \xhh
 
-
-
-
-
-
-
-
-
-
+print('apple\torange')
+print('apple\norange')
+print('apple\rorange')
+print('apple\vorange')
+print('apple\000orange')
+print('apple\aorange')
+print('apple\borange')
+print('apple\forange')
+print('apple\\orange')
+print('apple\'orange')
+print('apple\"orange')
 
 
 
