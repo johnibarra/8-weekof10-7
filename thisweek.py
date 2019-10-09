@@ -100,11 +100,12 @@ print('apple\"orange')
 
 # can you use ''' instead of """ ?
 
-age = input("hold old are you?")
+age = input("how old are you?")
 height = input("how tall are you?")
 print("so, you are %r old and %r tall." % (age, height))
-
-
+eye = input("what's your eye color?")
+hair = input("what color is your hair?")
+print("so, your eye color is %r and your hair is %r." % (eye, hair))
 
 
 
