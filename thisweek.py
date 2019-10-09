@@ -93,6 +93,17 @@ print('apple\\orange')
 print('apple\'orange')
 print('apple\"orange')
 
+# what does the following code do?
+#   while True:
+#       for i in ["/", "-", "|", "\\", "|"]:
+#           print("%s\r" % i, end='')
+
+# can you use ''' instead of """ ?
+
+age = input("hold old are you?")
+height = input("how tall are you?")
+print("so, you are %r old and %r tall." % (age, height))
+
 
 
 
