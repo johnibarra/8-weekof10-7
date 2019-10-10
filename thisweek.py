@@ -113,13 +113,13 @@ print("so your favorite food is %r an your favorite color is %s." % (food, color
 name = input('his name was?')
 age = input('he was')
 hair = input('he had dark')
-eye = input ('and really dark.')
+eye = input ('and light.')
 shoes = input('He always had on,')
-food = input('but he was always eating')
+food = input('He was always eating')
 
-print('There was a boy and his name was %r, he was %r old' % (name, age))
-print('')
-
+print('There was a boy and his name was %r, he was %r years old.' % (name, age))
+print('He had dark %r hair and light %r eyes.' % (hair, eye))
+print('He always had on a pair of %r on, and love eating %r.' % (shoes, food))
 
 
 
