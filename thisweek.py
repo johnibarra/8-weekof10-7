@@ -117,7 +117,7 @@ eye = input ('and light.')
 shoes = input('He always had on,')
 food = input('He was always eating')
 
-print('There was a boy and his name was %r, he was %r years old.' % (name, age))
+print('There was a horse and his name was %r, he was %r years old.' % (name, age))
 print('He had dark %r hair and light %r eyes.' % (hair, eye))
 print('He always had on a pair of %r on, and love eating %r.' % (shoes, food))
 
